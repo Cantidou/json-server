@@ -113,19 +113,25 @@
           }
          ]
         }
-       ]
-    "catFood":[
-    {"productName": "Нямушка с фуа-гра",
-    "quantity":"10",
-    "mouses": "мышь",
-    "weight":"0.5"},
-    {"productName": "Нямушка с рыбой",
-    "quantity":"40",
-    "mouses": "2 мыши",
-    "weight":"2"},
-    {"productName": "Нямушка с курой",
-    "quantity":"100",
-    "mouses": "5 мышей",
-    "weight":"5"}
-]
+       ],
+      "catFood": [
+            {
+                "productName": "Нямушка с фуа-гра",
+                "quantity":"10",
+                "mouses": "мышь",
+                "weight":"0.5"
+            },
+            {
+                "productName": "Нямушка с рыбой",
+                "quantity":"40",
+                "mouses": "2 мыши",
+                "weight":"2"
+            },
+            {
+                "productName": "Нямушка с курой",
+                "quantity":"100",
+                "mouses": "5 мышей",
+                "weight":"5"
+            }
+        ]
 }
