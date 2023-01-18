@@ -120,14 +120,16 @@
                 "productName": "с фуа-гра",
                 "productQuantity":"10",
                 "mouses": "мышь",
-                "productWeight":"0,5"
+                "productWeight":"0,5",
+                "discription": "Печень утки разварная с артишоками."
             },
             {
                 "id": "2",
                 "productName": "с рыбой",
                 "productQuantity":"40",
                 "mouses": "2 мыши",
-                "productWeight":"2"
+                "productWeight":"2",
+                "discription": "Головы щучьи с чесноком да свежайшая сёмгушка."
             },
             {
                 "id": "3",
@@ -135,7 +137,8 @@
                 "productQuantity":"100",
                 "mouses": "5 мышей",
                 "sub": "заказчик доволен",
-                "productWeight":"5"
+                "productWeight":"5",
+                "discription": "Филе из цыплят с трюфелями в бульоне."
             }
         ]
 }
