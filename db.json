@@ -117,21 +117,21 @@
       "catFood": [
             {
                 "id": "1",
-                "productName": "Нямушка с фуа-гра",
+                "productName": "с фуа-гра",
                 "quantity":"10",
                 "mouses": "мышь",
                 "weight":"0.5"
             },
             {
                 "id": "2",
-                "productName": "Нямушка с рыбой",
+                "productName": "с рыбой",
                 "quantity":"40",
                 "mouses": "2 мыши",
                 "weight":"2"
             },
             {
                 "id": "3",
-                "productName": "Нямушка с курой",
+                "productName": "с курой",
                 "quantity":"100",
                 "mouses": "5 мышей",
                 "weight":"5"
