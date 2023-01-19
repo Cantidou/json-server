@@ -139,6 +139,7 @@
                 "sub": "заказчик доволен",
                 "productWeight":"5",
                 "discription": "Филе из цыплят с трюфелями в бульоне."
+                "status": "disabled"
             }
         ]
 }
